@@ -45,8 +45,8 @@ function getMap() {
     });
 
     // My Factual key and secret
-    MY_KEY = "uMmBDTymQSIVSOvPYtNUoVGnDdzKSBbICDZrF2FY";
-    MY_SECRET = "RwtHaVgUMtAUOypXqHca26Zd7AsYa3ZnvYJKqGhc";
+    MY_KEY = "/";
+    MY_SECRET = "/";
 
     // Sets the map to be at the user's current Geo Location
     setGeoLocation();
