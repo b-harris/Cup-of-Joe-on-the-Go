@@ -33,8 +33,8 @@ namespace MyFirstMap
         }
 
         // My Factual key and secret to be passed into a Factual object
-        const string MY_KEY = "uMmBDTymQSIVSOvPYtNUoVGnDdzKSBbICDZrF2FY";
-        const string MY_SECRET = "RwtHaVgUMtAUOypXqHca26Zd7AsYa3ZnvYJKqGhc";
+        const string MY_KEY = "/";
+        const string MY_SECRET = "/";
 
         // Rootobject class - contains the Response class, version, and status for each place 
         public class Rootobject
