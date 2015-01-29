@@ -1,0 +1,76 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(173, 127, 77);
+}
+
+#mainHead.jumbotron
+{
+    padding: 0;
+}
+
+#mainCont
+{
+    margin-bottom: 100px;
+}
+
+#flex
+{
+    position: relative;
+    padding-bottom: 63%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+    margin-bottom: 20px;
+    border: 2px solid black;
+}
+
+.navbar-default 
+{
+    background-color: #222222;
+    padding: 10px;
+}
+
+.nav-tabs > li
+{
+    background-color: grey;
+}
+
+    .nav-tabs > li.active > a
+    {
+        border: 1px solid red;
+    }
+
+#botFoot
+{
+    clear: both;
+    text-align: center;
+}
+
+    #botFoot p
+    {
+        font-size: 20px;
+    }
+
+    #botFoot a 
+    {
+        color: rgb(246, 241, 2);
+        font-size: 18px;
+    }
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus
+{
+    color: rgb(224, 224, 224);
+}
+
+.panel-info>.panel-heading
+{
+    background-color: gray;
+    color: black;
+    border-color: black;
+}
+
+.panel-info
+{
+    border-color: black;
+}
